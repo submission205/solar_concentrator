@@ -261,7 +261,7 @@ bool target_detector_detect(CImg<unsigned char> &image, rectangle_t &target)
         return false;
     }
 
-    // Compute target area rectangle from capstones geometry (see schema in README)
+    // Compute target area rectangle from capstones geometry
     target = {
         .left_px = std::max(capstones.top_left->center.x, capstones.bottom_left->center.x) - average_width / 2,
         .top_px = std::max(capstones.top_left->center.y, capstones.top_right->center.y) + 2 * average_height,

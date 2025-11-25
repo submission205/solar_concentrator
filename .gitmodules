@@ -1,9 +1,0 @@
-[submodule "supervisor/supervisor_controller/components/esp32-camera"]
-	path = software/supervisor_controller/components/esp32-camera
-	url = https://github.com/espressif/esp32-camera.git
-[submodule "software/supervisor_controller/tests_on_host/mini_mock"]
-	path = software/supervisor_controller/tests_on_host/mini_mock
-	url = https://github.com/remipch/mini_mock.git
-[submodule "software/supervisor_controller/components/target_detector/capstone_detector"]
-	path = software/supervisor_controller/components/target_detector/capstone_detector
-	url = https://github.com/remipch/capstone_detector.git

@@ -1,5 +1,3 @@
-# This script builds the state machine charts used in the component README
-
 # requirements:
 # pip install drawsvg
 # pip install httpimport

@@ -2,7 +2,7 @@
  (name "Arduino Pro Mini")
  (description "A cheap Arduino board based on the ATmega328P")
  (keywords "arduino,pro mini")
- (author "remi")
+ (author "")
  (version "0.1")
  (created 2024-02-27T23:39:02Z)
  (deprecated false)

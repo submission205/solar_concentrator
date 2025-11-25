@@ -2,7 +2,7 @@
  (name "Arduino Pro Mini")
  (description "")
  (keywords "")
- (author "remi")
+ (author "")
  (version "0.1")
  (created 2024-02-26T13:45:51Z)
  (deprecated false)

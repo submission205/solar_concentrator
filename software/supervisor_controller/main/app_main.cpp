@@ -1,6 +1,3 @@
-// Copyright (C) 2024 Rémi Peuchot (https://remipch.github.io/)
-// This code is distributed under GNU GPL v3 license
-
 #include "app_httpd.hpp"
 #include "app_wifi.h"
 #include "camera.hpp"
